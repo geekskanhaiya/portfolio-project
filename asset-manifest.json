@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/geekskanhaiya/portfolio-project/static/css/main.faf43c67.css",
+    "main.js": "/geekskanhaiya/portfolio-project/static/js/main.7234ebe8.js",
+    "static/media/aboutMe_photo1.png": "/geekskanhaiya/portfolio-project/static/media/aboutMe_photo1.d56de5ac6befe65a07b4.png",
+    "static/media/aboutMe_photo1_small.png": "/geekskanhaiya/portfolio-project/static/media/aboutMe_photo1_small.d56de5ac6befe65a07b4.png",
+    "static/media/image.png": "/geekskanhaiya/portfolio-project/static/media/image.03c71a3fd4152b2fa6ed.png",
+    "static/media/coder.gif": "/geekskanhaiya/portfolio-project/static/media/coder.a64dc094036a805dd6d3.gif",
+    "static/media/project1.png": "/geekskanhaiya/portfolio-project/static/media/project1.a731cae1b55429cd9f6f.png",
+    "static/media/project4.png": "/geekskanhaiya/portfolio-project/static/media/project4.2122a52590bd3d92c5a9.png",
+    "static/media/freshcon.png": "/geekskanhaiya/portfolio-project/static/media/freshcon.3fbbbb1b7a81491a9238.png",
+    "static/media/handshake.gif": "/geekskanhaiya/portfolio-project/static/media/handshake.38b38ae1e5270eb75264.gif",
+    "static/media/nike.png": "/geekskanhaiya/portfolio-project/static/media/nike.cdc7f452c9985f676547.png",
+    "static/media/project5.png": "/geekskanhaiya/portfolio-project/static/media/project5.d4a69305cde0b4f1363f.png",
+    "static/media/project1m.png": "/geekskanhaiya/portfolio-project/static/media/project1m.fbf941eb0598f1c06937.png",
+    "static/media/portrait.png": "/geekskanhaiya/portfolio-project/static/media/portrait.af3422faf5ef40f19194.png",
+    "static/media/portrait_small.png": "/geekskanhaiya/portfolio-project/static/media/portrait_small.af3422faf5ef40f19194.png",
+    "static/media/project2m.png": "/geekskanhaiya/portfolio-project/static/media/project2m.7298c528993f1171315d.png",
+    "static/media/freshconm.png": "/geekskanhaiya/portfolio-project/static/media/freshconm.96660b1b35122bce4c8e.png",
+    "static/media/nikem.png": "/geekskanhaiya/portfolio-project/static/media/nikem.3cccaa80b5a4d5accd43.png",
+    "static/media/project2.png": "/geekskanhaiya/portfolio-project/static/media/project2.8c7394ce5c9b0a94fe53.png",
+    "static/media/project4m.png": "/geekskanhaiya/portfolio-project/static/media/project4m.76ef311c11ebc12da6cf.png",
+    "static/media/project5m.png": "/geekskanhaiya/portfolio-project/static/media/project5m.8dfcec1bb22d845ddeee.png",
+    "static/media/textUtils.png": "/geekskanhaiya/portfolio-project/static/media/textUtils.755f5bf54ad589b8b2a6.png",
+    "static/media/project3.png": "/geekskanhaiya/portfolio-project/static/media/project3.efbbbceaed45bc65b983.png",
+    "static/media/favicon.png": "/geekskanhaiya/portfolio-project/static/media/favicon.23f012f997bca9c40bd1.png",
+    "static/media/project3m.png": "/geekskanhaiya/portfolio-project/static/media/project3m.b065727206d704be18f1.png",
+    "static/media/work_in_progress.png": "/geekskanhaiya/portfolio-project/static/media/work_in_progress.fc316a7c99dc4d9c8fab.png",
+    "static/media/textUtilsm.png": "/geekskanhaiya/portfolio-project/static/media/textUtilsm.397e1a929b51bfe777b7.png",
+    "index.html": "/geekskanhaiya/portfolio-project/index.html",
+    "main.faf43c67.css.map": "/geekskanhaiya/portfolio-project/static/css/main.faf43c67.css.map",
+    "main.7234ebe8.js.map": "/geekskanhaiya/portfolio-project/static/js/main.7234ebe8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.faf43c67.css",
+    "static/js/main.7234ebe8.js"
+  ]
+}
