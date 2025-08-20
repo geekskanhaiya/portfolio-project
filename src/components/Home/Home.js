@@ -64,7 +64,7 @@ export default function Home({ mode }) {
             <div className={`container my-4 px-0 ${styles.buttonContainer}`}>
               <button className={`glow-on-hover`} type="button" mode={mode}>
                 <a
-                  href="/KanhaiyaKumarResume.pdf"
+                  href="/KanhaiyaKumarResume (2).pdf"
                   download={"Kanhaiya Kumar Resume.pdf"}
                   style={{ color: "inherit" }}
                 >
